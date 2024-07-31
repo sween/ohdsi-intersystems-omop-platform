@@ -1,7 +1,0 @@
----
-ingress:
-  enabled: true
-
-extraEnv:
-  - name: pathling.spark.appName
-    value: "aDifferentName"

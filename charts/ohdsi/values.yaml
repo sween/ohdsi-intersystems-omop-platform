@@ -12,7 +12,7 @@ commonAnnotations: []
 postgresql:
   # enable an included PostgreSQL DB.
   # if set to `false`, the values under `webApi.db` are used
-  enabled: true
+  enabled: false
   auth:
     # name of the database to create
     # see: <https://github.com/bitnami/containers/tree/main/bitnami/postgresql#creating-a-database-on-first-run>
@@ -626,7 +626,7 @@ loadCohortDefinitionsJob:
   #   cpu: 100m
   #   memory: 128Mi
   # requests:
-  #   cpu: 100m
+  #   cpu: 100
   #   memory: 128Mi
 
   # the cohort defintions to send to the WebAPI as a list of JSON objects.

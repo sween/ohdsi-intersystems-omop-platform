@@ -1,5 +1,0 @@
-fhirServerUrl: "http://localhost/fhir"
-fhirServerName: "Test"
-
-podDisruptionBudget:
-  enabled: true

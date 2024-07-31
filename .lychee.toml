@@ -1,2 +1,0 @@
-exclude = [ '^https://mystorageaccount.blob.core.windows.net/', '^http://simplest-collector.observability.svc:14250/' ]
-exclude_all_private = true

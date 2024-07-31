@@ -1,3 +1,0 @@
-spark:
-  cluster:
-    enabled: false

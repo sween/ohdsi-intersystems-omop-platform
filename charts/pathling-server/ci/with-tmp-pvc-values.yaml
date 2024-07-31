@@ -1,4 +1,0 @@
-tmpVolume:
-  persistence:
-    enabled: true
-    size: 16Gi
