@@ -1,5 +1,0 @@
-chart-dirs:
-  - charts
-debug: true
-remote: origin
-target-branch: master
